@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">大家好，我是
 
-```text
+
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-```
+
 
 :star: From [@NielsUchpa](https://github.com/niels-us)
 
