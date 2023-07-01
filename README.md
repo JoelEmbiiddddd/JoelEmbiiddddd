@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 
-:star: From [@黄立鑫]([https://github.com/niels-us](https://github.com/JoelEmbiiddddd)https://github.com/JoelEmbiiddddd)
+:star: From [@黄立鑫]([https://github.com/niels-us])
 
