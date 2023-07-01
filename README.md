@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shudipto-creator&label=Profile%20views&color=0e75b6&style=flat" alt="shudipto-creator" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">大家好，我是
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 欢迎您来来带
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
