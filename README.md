@@ -1,9 +1,11 @@
-### Hi there 👋
+
 
 <!--
 **JoelEmbiiddddd/JoelEmbiiddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shudipto-creator&label=Profile%20views&color=0e75b6&style=flat" alt="shudipto-creator" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 欢迎您来来带
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 欢迎您来到我的个人主页。
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
