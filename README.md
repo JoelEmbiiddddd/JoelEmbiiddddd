@@ -3,8 +3,6 @@
 <!--
 **JoelEmbiiddddd/JoelEmbiiddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- 如果您对我感兴趣，欢迎您访问我的[个人主页](https://huanglixin.netlify.app/)做更进一步的了解，谢谢您！
-
 Here are some ideas to get you started:
 
 ## Hi there 👋
@@ -40,6 +38,7 @@ Here are some ideas to get you started:
 
 🚀 - 能够保持谦虚的态度，不断学习，对技术的热爱，持续进步，创造出影响世界的应用或产品。
 
+ 如果您对我感兴趣，欢迎您访问我的[个人主页](https://huanglixin.netlify.app/)做更进一步的了解，谢谢您！
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
