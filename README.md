@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
-欢迎您来到我的个人主页。
+欢迎您来到我的Github主页。
 
 🌱 - 本科就读于 [浙江工业大学的计算机学院]()，并以**专业第一的成绩**保研至 [西北工业大学计算机学院]()，加入了重点实验室-教育部人机物融合群智计算重点实验室，其中[群智感知](https://baijiahao.baidu.com/s?id=1649635169436352063&wfr=spider&for=pc)领域做到了世界第一，长江学者於志文教授为我的导师，硕士就读期间成绩保持于年级前15%。
 
